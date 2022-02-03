@@ -1,0 +1,30 @@
+FB_ID=12345555
+FB_KEY=yourkey
+IDS=cnn,paddlesoft,msnbc
+# Include only if you want to scrape comments
+COMMENTS=1
+# Include below ONLY if you want to use Kafka.
+USE_KAFKA=1
+KAFKA_PORT=localhost:9092
+# Following are required if you are using ES (currently only works on AWS)
+ES=1
+ES_HOST=http://log_to_your_endpoint
+# If ES is on Amazon following are required
+ES_USE_AWS=1
+AWS_ES_ID=yourIAMID
+AWS_ES_SECRET=yoursecret
+AWS_ES_REGION=the_region
+INDEX_NAME=name_of_index
+# Set to 1 if you want to use S3 on AWS. Something else if you don't.
+USE_AWS=1
+# Following are required if you are using S3
+AWS_ID=your_id
+AWS_SECRET=your_secret
+AWS_REGION=the_region
+BUCKET_NAME=your_bucket_name
+# PostgreSQL is required commit starting with commit e08a967e32a31f6b9036c6ca9a25e0559142bcd6
+db='postgres'
+pg_user=postgresqlusername
+pg_password=pgsql_password
+pg_host=url_to_heroku_database_host
+pg_db=name_of_db
