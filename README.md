@@ -1,9 +1,9 @@
 # Facebook Scraper
 
-[![PyPI version](https://img.shields.io/pypi/v/facebook-scraper?color=blue)](https://pypi.python.org/pypi/facebook-scraper/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/facebook-scraper.svg)](https://pypi.python.org/pypi/facebook-scraper/)
 [![GitHub commits since tagged version](https://img.shields.io/github/commits-since/kevinzg/facebook-scraper/v0.2.52)](https://github.com/kevinzg/facebook-scraper/commits/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![PyPI version](https://img.shields.io/pypi/v/facebook-scraper?color=blue)](https://pypi.python.org/pypi/facebook-scraper/)
 [![Codecov branch](https://img.shields.io/codecov/c/github/isaacmg/fb_scraper.svg)](https://codecov.io/gh/isaacmg/fb_scraper)
 [![Join the chat at https://gitter.im/fb_scraper/Lobby](https://badges.gitter.im/fb_scraper/Lobby.svg)](https://gitter.im/fb_scraper/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Docker Pulls](https://img.shields.io/docker/pulls/paddlesoft/fb_scraper.svg)](https://hub.docker.com/r/paddlesoft/fb_scraper/)
