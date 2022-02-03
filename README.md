@@ -8,11 +8,11 @@
 [![Codecov branch](https://img.shields.io/codecov/c/github/isaacmg/fb_scraper.svg)](https://codecov.io/gh/isaacmg/fb_scraper)
 [![Join the chat at https://gitter.im/fb_scraper/Lobby](https://badges.gitter.im/fb_scraper/Lobby.svg)](https://gitter.im/fb_scraper/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Code Health](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat)](https://landscape.io/github/isaacmg/fb_scraper/master)
-[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=isaacmg&repoName=fb_scraper&branch=master&pipelineName=fb_scraper&accountName=isaacmg&type=cf-2)]( https://g.codefresh.io/repositories/isaacmg/fb_scraper/builds?filter=trigger:build;branch:master;service:58e3576497ef5f0100e617c8~fb_scraper)
+[![Travis](https://travis-ci.org/isaacmg/fb_scraper.svg?branch=master)](https://travis-ci.org/isaacmg/fb_scraper)
 [![PyPI download month](https://img.shields.io/pypi/dm/facebook-scraper.svg)](https://pypi.python.org/pypi/facebook-scraper/)
 [![PyPI download week](https://img.shields.io/pypi/dw/facebook-scraper.svg)](https://pypi.python.org/pypi/facebook-scraper/)
 [![PyPI download day](https://img.shields.io/pypi/dd/facebook-scraper.svg)](https://pypi.python.org/pypi/facebook-scraper/)
-[![Travis](https://travis-ci.org/isaacmg/fb_scraper.svg?branch=master)](https://travis-ci.org/isaacmg/fb_scraper)
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=isaacmg&repoName=fb_scraper&branch=master&pipelineName=fb_scraper&accountName=isaacmg&type=cf-2)]( https://g.codefresh.io/repositories/isaacmg/fb_scraper/builds?filter=trigger:build;branch:master;service:58e3576497ef5f0100e617c8~fb_scraper)
 
 > Scrape Facebook public pages without an API key. Inspired by [twitter-scraper](https://github.com/kennethreitz/twitter-scraper).
 
